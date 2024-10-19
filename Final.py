@@ -1,5 +1,3 @@
-pip install pymysql
-
 import pandas as pd
 import streamlit as st
 import pymysql
