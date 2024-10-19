@@ -1,0 +1,7 @@
+numpy==2.1.1
+pandas==2.2.3
+PyMySQL==1.1.1
+streamlit==1.39.0
+google-api-python-client==2.149.0
+plotly==5.24.1
+matplotlib==3.9.2
