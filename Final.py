@@ -15,7 +15,7 @@ import json
 
 
 # Establish MySQL connection
-mydb = pymysql.connect(host='127.0.0.1', user='root', password='Master5$', database='sudesh1')
+mydb = pymysql.connect(host='127.0.0.1', user='root', password='your_password', database='sudesh1')
 mycursor = mydb.cursor()
 
 # Build YouTube API connection
